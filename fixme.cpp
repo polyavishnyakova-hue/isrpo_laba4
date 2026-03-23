@@ -41,3 +41,4 @@ int main() {
 =======
 }// New line
 >>>>>>> test_no_conflict
+// Additional change 1: improve logic
