@@ -32,14 +32,8 @@ int main() {
     }
     
     return 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 }// My change for conflict
-=======
+
 }// Diana's conflicting change
->>>>>>> origin/feature/variant9_diana
-=======
-}// New line
->>>>>>> test_no_conflict
-// Additional change 1: improve logic
-// Additional change 2: add error handling
+
