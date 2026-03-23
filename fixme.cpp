@@ -32,4 +32,8 @@ int main() {
     }
     
     return 0;
+<<<<<<< HEAD
 }// My change for conflict
+=======
+}// Diana's conflicting change
+>>>>>>> origin/feature/variant9_diana
